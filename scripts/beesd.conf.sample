@@ -16,7 +16,7 @@ UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 # BEESSTATUS="$WORK_DIR/$UUID.status"
 
 ## Options to apply, see `beesd --help` for details
-# OPTIONS="--strip-paths --no-timestamps"
+# OPTIONS="--strip-paths --no-timestamps --verbose 6"
 
 ## Bees DB size
 # Hash Table Sizing
